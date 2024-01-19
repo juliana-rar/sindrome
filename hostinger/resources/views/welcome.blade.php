@@ -10,6 +10,7 @@
 <body>
     <header>
         <h2 style="align-items: center">Sindrome de Leriche</h2>
+        <h2 style="align-items: center">HOLA FUNCIONAS O NO IORASION</h2>
     </header>
     <nav>
         <li><a href="">Inicio</a></li>
